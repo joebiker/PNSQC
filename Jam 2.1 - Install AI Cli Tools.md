@@ -33,10 +33,10 @@ You can auth with Google Login or with API Key.
 
  - Click New...
  - Variable name: GEMINI_API_KEY
- - Variable value: <key>
-
-Get your key from google: https://aistudio.google.com/app/api-keys
-Create New. Copy and paste into Environment variable.
+ - Variable value: (tbd)
+ - Get your key from google: https://aistudio.google.com/app/api-keys
+   - Create New. 
+   - Copy and paste into Environment variable.
 
 ### Verify the installation
 
@@ -61,7 +61,7 @@ Some suggested changes:
 
 In Gemini type `/model`
 
-gemini-3-flash-preview
-gemini-2.5-flash
-gemini-2.5-flash-lite
+- gemini-3-flash-preview
+- gemini-2.5-flash
+- gemini-2.5-flash-lite
 
