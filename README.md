@@ -10,8 +10,8 @@ This session will use the following tools. Please arrive with these, or equivale
 
  - Chrome web browser
  - Microsoft Visual Studio Code
-  - GitHub Copilot Chat 
-  - microsoft/playwright-mcp
+   - GitHub Copilot Chat 
+   - microsoft/playwright-mcp
  - GitHub Copilot CLI
  - Google Gemini CLI
 
@@ -25,10 +25,9 @@ We may also utilize online tools. If you do not already have accounts, you may w
 
 [Registration](https://mms.pnsqc.org/members/evr/reg_event.php?evid=59880123&orgcode=PNSQ)
 
-Location: University Place Hotel & Conference Center, 310 SW Lincoln St, Portland, OR 97201, Portland, OR 97201
-Date: Friday, January 23 2026
+Location: University Place Hotel & Conference Center, 310 SW Lincoln St, Portland, OR 97201, Portland, OR 97201  
+Date: Friday, January 23 2026  
 Time: 1:00 PM – 4:30 PM (PST)
 
-**And Online**
-
+**And Online**  
 Zoom Meeting ID: **89600015216**
