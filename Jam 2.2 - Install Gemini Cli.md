@@ -1,17 +1,6 @@
 # Jam 2026 - Install AI
 
-If you don't already have these, here is a primer for install. These are based on Windows / Powershell. 
-
-## Installation Steps for GitHub Copilot CLI
-
-https://docs.github.com/en/copilot/how-tos/set-up/install-copilot-cli
-
-Open your Terminal (Command Prompt, PowerShell, or equivalent for your OS).
-
-> npm install -g @github/copilot
-
-Now type `copilot` and follow prompts / authentication steps.
-
+If you don't already have it, here is a primer for install. These are based on Windows / Powershell. 
 
 ## Installation Steps for Gemini CLI
 
@@ -26,6 +15,7 @@ Run the following command to install Gemini CLI globally using npm:
 > npm install -g @google/gemini-cli
 
 You can auth with Google Login or with API Key. 
+
 
 ### Auth with API Key
 
@@ -43,6 +33,15 @@ You can auth with Google Login or with API Key.
 You must open a new Terminal window after creating the environment variable above!!!
 
 In the new Terminal, type `gemini` (it takes multiple seconds to load on my machine)
+
+### Other Install Notes
+
+Talks about rate limits.
+https://www.npmjs.com/package/@google/gemini-cli
+
+Learn about how they use our data.
+https://github.com/google-gemini/gemini-cli/blob/main/docs/tos-privacy.md
+
 
 #### Settings
 
@@ -65,3 +64,8 @@ In Gemini type `/model`
 - gemini-2.5-flash
 - gemini-2.5-flash-lite
 
+
+#### Configuration 
+
+User (local computer) config
+C:\Users\Joe\.gemini>

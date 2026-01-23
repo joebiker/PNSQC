@@ -26,6 +26,6 @@ Check your CLI is working
 
 > copilot --version
 
-0.0.388
+0.0.393
 
 
