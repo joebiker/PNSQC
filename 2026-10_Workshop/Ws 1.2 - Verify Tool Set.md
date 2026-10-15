@@ -1,19 +1,12 @@
 # Tool Verification
 
-- Ensure Setup of Chrome
+- Ensure Installation of Chrome
 - VS Code
   - Extensions
   - Plugins
 - Claude Code
 - Codex
 - Gemini CLI, free calls
-  1. Job search `use mcp dice-job-search to find jobs in Portland, OR related to QA or software quality`
-  2. Weather `using the AccuWeather-mcp get a forcast for Portland, OR for the next 3 days`
-    - Fail AccuWeather API error (403): Request failed with status code 403
-    - This typically means:
-    - The AccuWeather API key configured for the MCP server is invalid, missing, or unauthorized.
-    - The free tier request quota or specific endpoint permission for the API key has been exceeded or restricted.
-  3. Rename files in this folder that start with Jam to Ws. ~\source\joebiker\PNSQC\2026-10_Workshop
 
 ## System Path
 
@@ -29,7 +22,7 @@
 
 ## CLI Version information
 
-### Check  Codex
+### Check Codex
 
 ### Check Claude Code
 
@@ -44,7 +37,3 @@
 > copilot --version
 
 0.0.393
-
- ● Configured MCP servers: weather-national-service, playwrigt-mcp
- ● Loaded custom instructions: .github/copilot-instructions.md (769 chars)
- ● Copilot CLI version 1.0.95 downloaded. Restart to update.

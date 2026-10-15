@@ -18,28 +18,6 @@ My config file (c:\users\joe\\.gemini\settings.json)
     "dice-job-search": {
       "url": "https://mcp.dice.com/mcp"
     },
-    "AccuWeather-mcp": {
-      "type": "stdio",
-      "command": "npx",
-      "args": [
-        "-y",
-        "@timlukahorstmann/mcp-weather"
-      ],
-      "env": {
-        "ACCUWEATHER_API_KEY": "zpka_8d0282cff6c1458597f39ff1d8e7e016_43bba44b"
-      }
-    }
   },
-  "security": {
-    "auth": {
-      "selectedType": "gemini-api-key"
-    }
-  },
-  "ui": {
-    "footer": {
-      "hideModelInfo": false,
-      "hideContextPercentage": false
-    }
-  }
 }
 ```

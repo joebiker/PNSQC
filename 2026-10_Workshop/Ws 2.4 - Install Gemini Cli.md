@@ -85,7 +85,9 @@ In Gemini type `/model`
 #### Configuration
 
 User (local computer) config
-C:\Users\Joe\\.gemini>
+
+> C:\Users\Joe\\.gemini>
 
 Workspace
-.gemini/settings.json
+
+>.gemini/settings.json

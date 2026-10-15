@@ -8,4 +8,7 @@ Let's get acquainted with each other.
    - Your name.
    - Your reason for being here.
    - Do you use MCP today?
-   - Slido 41409484 [Link to Slido](https://app.sli.do/event/8A58pmzt9SLoP9zwJt3cMr)
+1. In addition to MCPs used today, what other servers do you like? (pull request updates welcome)
+   - [Chrome DevTools](https://github.com/ChromeDevTools/chrome-devtools-mcp)
+   - [Supabase](https://github.com/supabase/mcp)
+   - 
